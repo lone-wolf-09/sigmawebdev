@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+}
+#head{
+    text-align: center;
+    background-color: rgb(65, 65, 65);
+    color: rgb(0, 0, 0);
+    padding: 3%;
+}
+#vid1{
+    background-color: rgb(65, 65, 65);
+    box-shadow: 1cap;
+    border-radius: 10%;
+}
+.vid1:hover{
+    transform: scale(1.5);
+    transition: 0.5s ease;
+}
+#vid2{
+    background-color: rgb(65, 65, 65);
+
+}
+#vid3{
+    background-color: rgb(65, 65, 65);
+
+}
+#vid4{
+    background-color: rgb(65, 65, 65);
+
+}
+#vid5{
+    background-color: rgb(65, 65, 65);
+
+}
+#vid6{
+    background-color: rgb(65, 65, 65);
+
+}
+#aud1{
+    background-color: rgb(65, 65, 65);
+
+}
+#aud2{
+    background-color: rgb(65, 65, 65);
+
+}
+#aud3{
+    background-color: rgb(65, 65, 65);
+
+}
+#aud4{
+    background-color: rgb(65, 65, 65);
+
+}
+#aud5{
+    background-color: rgb(65, 65, 65);
+
+}
+#aud6{
+    background-color: rgb(65, 65, 65);
+
+}
+#dot{
+    height: 1;
+    width: 1;
+
+}
